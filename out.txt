@@ -1,0 +1,7 @@
+flaf
+Words in dictionary:       25144
+Words in checked file:     25
+Mispelled words:           1
+Number of probes:          28
+Average probes per word:   1.12
+Average probes per lookup: 0.6511627906976745
